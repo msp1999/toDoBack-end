@@ -10,3 +10,5 @@ This will install all the dependencies.
 
 ### `node index.js`
 This will start the server. 
+
+In .env file use your database url 
